@@ -62,7 +62,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/VivekMishra21/family_chat.git
+git clone https://github.com/VivekMishra21/familyChatApp.git
 Install dependencies:
 
 bash
