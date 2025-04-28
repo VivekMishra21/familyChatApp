@@ -1,4 +1,5 @@
-📱 Family Chat App
+#📱 Family Chat App
+
 A real-time Flutter-based Family Chat App built using Firebase for authentication, cloud storage, messaging, and notifications.
 This is a beginner-friendly Flutter project designed for learning and practice.
 
@@ -59,7 +60,9 @@ Edit
 🛠️ Setup Instructions
 Clone the repository:
 
-![Login](1908c1a0-8458-4da7-8f2b-fa8809f88d49.jpeg)
+![Login](54093ded-fec8-470b-b2cd-72ea8aa79f05.jpeg)
+
+
 
 
 bash
